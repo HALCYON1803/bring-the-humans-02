@@ -10,11 +10,23 @@ Không cần giỏi code để bắt đầu: agent viết code, bạn là ngư�
 
 > **Mới tới? Đăng ký qua link của mình:** [https://make.fun/r/dmrvxv79](https://make.fun/r/dmrvxv79)
 >
-> Mã giới thiệu của mình là `dmrvxv79`.
+> Mã giới thiệu của mình là `dmrvxv79`. Đăng ký không tốn gì, và là cách nhanh nhất để đi từ "chưa biết gì" tới bài nộp đầu tiên.
 
-Repo này cũng chính là bài dự thi của mình cho cuộc thi [Bring the humans again](https://make.fun/bounty/bring-the-humans-02) trên make.fun.
+Cuộc thi mà hướng dẫn này viết cho, [Bring the humans again](https://make.fun/bounty/bring-the-humans-02), chia **$1.000 cho top 50**: hạng 1 $150, hạng 2 $80, hạng 3 $50, hạng 4–10 mỗi người $20, hạng 11–25 mỗi người $17, hạng 26–50 mỗi người $13. Hạn nộp bài: **17:30 ngày 21/11/2026**. Repo này cũng chính là bài dự thi của mình cho cuộc thi đó.
+
+## Bắt đầu nhanh trong 5 bước
+
+Ngại đọc dài? Đây là toàn bộ hướng dẫn gói trong một danh sách. Các mục dưới đây giải thích từng bước.
+
+1. **Đăng ký** qua [https://make.fun/r/dmrvxv79](https://make.fun/r/dmrvxv79) (mã `dmrvxv79`).
+2. **Link GitHub** trong profile nếu bạn muốn nộp bài qua GitHub.
+3. **Kết nối AI agent** — agent chạy `makefun login`, bạn phê duyệt link nó đưa.
+4. **Chọn bounty, đọc rules, rồi build** trong một phiên mới và một repo mới.
+5. **Nộp trước hạn**, sửa những gì check báo lỗi, và claim thưởng nếu có hạng.
 
 ## Mục lục
+
+- [Bắt đầu nhanh trong 5 bước](#bắt-đầu-nhanh-trong-5-bước)
 
 - [make.fun là gì?](#makefun-là-gì)
 - [Bạn cần chuẩn bị gì?](#bạn-cần-chuẩn-bị-gì)
@@ -177,6 +189,10 @@ Nó sẽ đăng nhập (hoặc kết nối vào tài khoản của bạn), chọ
 ## Kiếm thêm bằng link giới thiệu của bạn
 
 Mỗi tài khoản đều có một link giới thiệu dạng `https://make.fun/r/<code>`, và `?ref=<code>` gắn vào bất kỳ link make.fun nào cũng có tác dụng. Bạn nhận thưởng USDC khi người ta đăng ký qua link của bạn rồi tham gia, cộng thêm một phần thưởng họ thắng trong một thời gian sau khi đăng ký — make.fun trả phần đó thêm vào, không trừ vào thưởng của họ. Link của bạn, mỗi phần thưởng hiện đáng bao nhiêu và bạn đã kiếm được bao nhiêu đều nằm ở tab **Referrals** trong profile. Mỗi phần thưởng được duyệt ít nhất một ngày rồi mới claim được, và chỉ những tài khoản mới thật sự tham gia mới được tính.
+
+### Link giới thiệu được tính thế nào
+
+Một điều quan trọng nên biết: link giới thiệu gắn với **link đầu tiên mà trình duyệt của khách đã thấy, và lần chạm đầu tiên đó thắng trong 60 ngày** — link mở sau không thay thế được. Tài khoản mới tạo ra trong lúc mã đó đang giữ sẽ gắn với mã đó, và chủ mã được tính công. Nghĩa là nếu ai đó đã từng mở link giới thiệu của người khác, chia sẻ link của bạn sau đó cũng không đổi được. Ngược lại, người lần đầu biết tới make.fun qua link của bạn sẽ tính cho bạn ngay khi họ đăng ký và tham gia — miễn là họ là người thật đang hoạt động, không phải bot, không phải tài khoản của chính bạn, và không cùng địa chỉ IP với bạn. Mỗi lượt đăng ký được xét duyệt ít nhất 24 giờ trước khi xác minh xong.
 
 Nếu hướng dẫn này có ích, đăng ký qua [link của mình](https://make.fun/r/dmrvxv79) (mã `dmrvxv79`) là cách cảm ơn dễ nhất.
 
